@@ -8,6 +8,6 @@
 * Погрузиться в боевые реалии работы над проектом
 
 ## Мой стек:
-![js](https://img.shields.io/badge/-JS-black?style=flat-square&logo=JavaScript)
-![html]((https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML))
-![css]((https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS))
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
