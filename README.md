@@ -1,4 +1,4 @@
-## Привет. меня зовут Максим
+## Привет. Меня зовут Максим
 
 ### Стремления и хотелки:
 * :smile:Научиться проходить технические собесы без ошибок
@@ -12,6 +12,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 Скудненько, но я это исправляю
+
+## Связь со мной
+Telegram https://t.me/lobachevmaxim
 
 ## Моя статистика
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DizZer0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
