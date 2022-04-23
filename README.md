@@ -8,4 +8,5 @@
 * Погрузиться в боевые реалии работы над проектом
 
 ## Мой стек:
-![js](https://img.shields.io/badge/-JS-yellow?style=flat-square&logo=appveyor)
+![js](https://img.shields.io/badge/-JS-yellow?style=flat-square&logo=JavaScript)
+![HTML]()
