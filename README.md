@@ -8,5 +8,6 @@
 * Погрузиться в боевые реалии работы над проектом
 
 ## Мой стек:
-![js](https://img.shields.io/badge/-JS-yellow?style=flat-square&logo=JavaScript)
-![HTML]()
+![js](https://img.shields.io/badge/-JS-black?style=flat-square&logo=JavaScript)
+![html]((https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5))
+![css]((https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3))
