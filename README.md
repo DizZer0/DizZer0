@@ -13,5 +13,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 Скудненько, но я это исправляю
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DizZer0)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DizZer0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DizZer0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DizZer0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
